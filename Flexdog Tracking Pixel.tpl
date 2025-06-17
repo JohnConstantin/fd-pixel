@@ -1,0 +1,127 @@
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
+
+{
+  "type": "TAG",
+  "id": "cvt_temp_public_id",
+  "version": 1,
+  "securityGroups": [],
+  "displayName": "Flexdog Tracking Pixel",
+  "brand": {
+    "id": "brand_dummy",
+    "displayName": "FLEXDOG",
+    "thumbnail": "data:image/png;base64,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\u003d"
+  },
+  "description": "Pixel for tracking conversions from FLEXDOG domains",
+  "containerContexts": [
+    "WEB"
+  ]
+}
+
+
+___TEMPLATE_PARAMETERS___
+
+[
+  {
+    "type": "TEXT",
+    "name": "pixelId",
+    "displayName": "Pixel ID",
+    "simpleValueType": true
+  }
+]
+
+
+___SANDBOXED_JS_FOR_WEB_TEMPLATE___
+
+const log = require('logToConsole');
+const injectScript = require('injectScript');
+const encodeUriComponent = require('encodeUriComponent'); // <- zde
+
+const pixelId = data.pixelId;
+const scriptUrl = 'https://flexdog.s3.eu-north-1.amazonaws.com/tracking/fd-pixel.js?API_KEY=' + encodeUriComponent(pixelId);
+
+log('Trying to load FlexDog Pixel from:', scriptUrl);
+
+injectScript(scriptUrl, function() {
+  log('FlexDog Pixel script loaded successfully.');
+  data.gtmOnSuccess();
+}, function() {
+  log('Failed to load FlexDog Pixel script.');
+  data.gtmOnFailure();
+});
+
+
+___WEB_PERMISSIONS___
+
+[
+  {
+    "instance": {
+      "key": {
+        "publicId": "logging",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "environments",
+          "value": {
+            "type": 1,
+            "string": "debug"
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "inject_script",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "urls",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 1,
+                "string": "https://flexdog.s3.eu-north-1.amazonaws.com/tracking/*"
+              },
+              {
+                "type": 1,
+                "string": "https://tracking.flexdog.com/*"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  }
+]
+
+
+___TESTS___
+
+scenarios: []
+
+
+___NOTES___
+
+Created on 17. 6. 2025 11:23:13
+
+
